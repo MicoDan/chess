@@ -1,6 +1,6 @@
 import pygame
 
-from const import *
+from const import * 
 from board import Board
 from dragger import Dragger
 from config import Config
